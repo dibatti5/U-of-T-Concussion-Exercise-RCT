@@ -494,7 +494,7 @@ m_symp <- ulam(
     a1[group] ~ dnorm(2,1),
     a2[time] ~ dnorm(3,1),
     sig ~ dexp(1)
-  ), data = dat_symp, iter = 2000,  chains = 4, log_lik = TRUE  )
+  ), data = dat_symp, iter = 20000,  chains = 4, log_lik = TRUE  )
 
 precis(m_symp,2)
 
@@ -613,7 +613,7 @@ m_tot_symp <- ulam(
     a1[group] ~ dnorm(1.25,1),
     a2[time] ~ dnorm(2.25,1),
     sig ~ dexp(1)
-  ), data = dat_tot_symp, iter = 2000,  chains = 4, log_lik = TRUE  )
+  ), data = dat_tot_symp, iter = 20000,  chains = 4, log_lik = TRUE  )
 
 precis(m_tot_symp,2,prob = 0.9)
 pm_m_tot_symp <- data.frame(extract.samples(m_tot_symp))
@@ -691,7 +691,7 @@ m_feel<- ulam(
     a1[group] ~ dnorm(0,0.5),
     a2[time] ~ dnorm(0,0.5),
     sig ~ dexp(1)
-  ), data = dat_feel, iter = 2000,  chains = 4, log_lik = TRUE  )
+  ), data = dat_feel, iter = 20000,  chains = 4, log_lik = TRUE  )
 
 precis(m_feel,2,prob = 0.9)
 pm_feel <- data.frame(extract.samples(m_feel))
