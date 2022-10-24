@@ -4,7 +4,7 @@ This repository contains anonymized experimental data and all scripts to reprodu
 Hutchison MG, Di Battista AP, Lawrence DW, Pyndiura K, Corallo D, Richards D, '**Randomized controlled trial of early aerobic exercise following sport related concussion: progressive percentage of age-predicted maximal heart rate versus usual care**', PLOS One 2022.
 
 
-# .csv Files
+# .csv files
 **m1_df.csv**: csv file needed to run the exponential survival curve model for days to asymptomatic status. 
 
 **m2_df.csv**: csv file needed to run the exponential survival curve model for days to return-to-play. 
