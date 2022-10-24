@@ -1,0 +1,40 @@
+"randomization_group","Age","Female Sex","Education Level","Sport","Prior Concussion #","ADHD","Learning Disability","Sleep Disorder","Anxiety","Depression","LOC","Total Symptoms","Symptom Severity","Symptom Severity Range","% of Normal","Godin Score"
+"UCEP",22,1,"College/University","Other",0,0,0,0,0,0,"No",21,56,"> 50 (Very High)",60,28
+"SAEP",21,1,"College/University","Soccer",0,0,0,0,1,1,"No",17,57,"> 50 (Very High)",75,49
+"UCEP",23,0,"College/University","Other",0,0,0,0,0,0,"No",12,15,"< 15 (Low)",70,45
+"SAEP",21,0,"College/University","Volleyball",4,0,0,0,0,0,"No",19,57,"> 50 (Very High)",65,54
+"UCEP",16,0,"EL/MS/HS","Hockey",1,0,0,0,0,0,"No",7,7,"< 15 (Low)",80,70
+"UCEP",15,0,"EL/MS/HS","Soccer",2,0,0,0,0,0,"No",11,26,"16-30 (Moderate)",40,58
+"UCEP",16,1,"EL/MS/HS","Soccer",2,0,0,0,0,0,"No",13,29,"16-30 (Moderate)",60,91
+"UCEP",15,0,"EL/MS/HS","Speed Skating",1,0,0,0,0,0,"No",4,6,"< 15 (Low)",72,106
+"UCEP",25,0,"College/University","Hockey",0,0,0,0,0,0,"No",13,16,"16-30 (Moderate)",87,93
+"SAEP",16,0,"EL/MS/HS","Soccer",1,0,0,0,0,0,"No",14,28,"16-30 (Moderate)",65,70
+"UCEP",21,1,"College/University","Other",0,0,0,0,1,0,"No",18,89,"> 50 (Very High)",20,127
+"SAEP",16,1,"EL/MS/HS","Basketball",1,0,0,0,0,0,"No",7,9,"< 15 (Low)",85,57
+"UCEP",25,0,"College/University","Other",0,0,1,0,0,0,"No",10,16,"16-30 (Moderate)",75,32
+"SAEP",13,0,"EL/MS/HS","Hockey",1,0,0,0,0,0,"No",1,1,"< 15 (Low)",97,109
+"SAEP",15,0,"EL/MS/HS","Rugby",3,0,0,0,0,0,"No",7,9,"< 15 (Low)",55,57
+"UCEP",17,0,"EL/MS/HS","Soccer",2,0,0,0,1,1,"No",18,30,"16-30 (Moderate)",75,49
+"SAEP",19,1,"College/University","Rugby",1,0,0,0,0,0,"No",13,34,"31-50 (High)",60,91
+"SAEP",20,0,"College/University","Football",0,0,0,0,0,0,"No",9,13,"< 15 (Low)",70,88
+"SAEP",19,1,"College/University","Figure Skating",1,0,0,0,0,0,"No",19,55,"> 50 (Very High)",40,84
+"SAEP",17,1,"College/University","Hockey",2,0,0,0,0,0,"No",14,35,"31-50 (High)",66,128
+"SAEP",15,1,"EL/MS/HS","Hockey",1,0,0,0,0,0,"No",12,18,"16-30 (Moderate)",47,75
+"UCEP",20,1,"College/University","Cheerleading",2,0,0,0,0,1,"No",13,36,"31-50 (High)",65,65
+"SAEP",23,1,"College/University","Basketball",0,0,0,0,0,0,"No",4,4,"< 15 (Low)",70,85
+"UCEP",21,1,"College/University","Other",0,1,0,0,1,1,"Unsure",19,83,"> 50 (Very High)",15,139
+"SAEP",19,0,"College/University","Football",0,0,0,0,0,0,"No",15,25,"16-30 (Moderate)",70,74
+"UCEP",19,1,"College/University","Other",1,0,0,0,0,0,"No",11,34,"31-50 (High)",30,80
+"SAEP",16,0,"EL/MS/HS","Boxing",0,0,0,0,0,0,"No",16,29,"16-30 (Moderate)",60,61
+"SAEP",18,1,"College/University","Cheerleading",0,1,0,1,1,1,"No",22,76,"> 50 (Very High)",55,68
+"UCEP",22,1,"College/University","Basketball",0,0,0,0,0,0,"No",5,11,"< 15 (Low)",80,129
+"SAEP",16,1,"EL/MS/HS","Other",0,0,0,0,0,0,"Yes",19,48,"31-50 (High)",70,103
+"SAEP",19,1,"College/University","Track and Field",0,0,0,0,0,0,"No",15,30,"16-30 (Moderate)",70,92
+"UCEP",15,0,"EL/MS/HS","Hockey",0,0,0,0,0,0,"No",14,30,"16-30 (Moderate)",60,91
+"SAEP",14,1,"EL/MS/HS","Hockey",0,0,0,0,0,0,"No",20,54,"> 50 (Very High)",40,105
+"SAEP",19,1,"College/University","Soccer",3,0,0,0,0,0,"No",4,6,"< 15 (Low)",60,67
+"UCEP",22,1,"College/University","Football",0,0,0,0,0,0,"No",15,25,"16-30 (Moderate)",65,30
+"UCEP",13,0,"EL/MS/HS","Other",1,1,0,0,0,0,"No",22,67,"> 50 (Very High)",70,101
+"SAEP",19,1,"College/University","Other",3,0,0,0,1,1,"No",17,46,"31-50 (High)",60,90
+"UCEP",21,1,"College/University","Track and Field",0,0,1,0,0,0,"No",6,12,"< 15 (Low)",60,49
+"UCEP",23,1,"College/University","Other",0,0,0,0,0,0,"Unsure",22,66,"> 50 (Very High)",50,73

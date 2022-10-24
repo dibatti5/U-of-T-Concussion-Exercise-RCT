@@ -1,0 +1,176 @@
+"randomization_group","redcap_repeat_instance","Total Symptoms","Symptom Severity","% of Normal"
+"UCEP","Enrolment",21,56,60
+"SAEP","Enrolment",17,57,75
+"UCEP","Enrolment",12,15,70
+"SAEP","Enrolment",19,57,65
+"UCEP","Enrolment",7,7,80
+"UCEP","Enrolment",11,26,40
+"UCEP","Enrolment",13,29,60
+"UCEP","Enrolment",4,6,72
+"UCEP","Enrolment",13,16,87
+"SAEP","Enrolment",14,28,65
+"UCEP","Enrolment",18,89,20
+"SAEP","Enrolment",7,9,85
+"UCEP","Enrolment",10,16,75
+"SAEP","Enrolment",1,1,97
+"SAEP","Enrolment",7,9,55
+"UCEP","Enrolment",18,30,75
+"SAEP","Enrolment",13,34,60
+"SAEP","Enrolment",9,13,70
+"SAEP","Enrolment",19,55,40
+"SAEP","Enrolment",14,35,66
+"SAEP","Enrolment",12,18,47
+"UCEP","Enrolment",13,36,65
+"SAEP","Enrolment",4,4,70
+"UCEP","Enrolment",19,83,15
+"SAEP","Enrolment",15,25,70
+"UCEP","Enrolment",11,34,30
+"SAEP","Enrolment",16,29,60
+"SAEP","Enrolment",22,76,55
+"UCEP","Enrolment",5,11,80
+"SAEP","Enrolment",19,48,70
+"SAEP","Enrolment",15,30,70
+"UCEP","Enrolment",14,30,60
+"SAEP","Enrolment",20,54,40
+"SAEP","Enrolment",4,6,60
+"UCEP","Enrolment",15,25,65
+"UCEP","Enrolment",22,67,70
+"SAEP","Enrolment",17,46,60
+"UCEP","Enrolment",6,12,60
+"UCEP","Enrolment",22,66,50
+"UCEP","Assessment 1 (MED = 6.5 Days)",18,35,75
+"UCEP","Assessment 2 (MED = 13 Days)",18,41,85
+"UCEP","Assessment 3 (MED = 20 Days)",15,32,88
+"UCEP","Assessment 4 (MED = 28 Days)",18,37,90
+"SAEP","Assessment 1 (MED = 6.5 Days)",12,27,NA
+"UCEP","Assessment 1 (MED = 6.5 Days)",17,22,60
+"UCEP","Assessment 2 (MED = 13 Days)",12,14,71
+"UCEP","Assessment 3 (MED = 20 Days)",16,27,75
+"UCEP","Assessment 4 (MED = 28 Days)",7,7,85
+"SAEP","Assessment 1 (MED = 6.5 Days)",16,44,NA
+"SAEP","Assessment 2 (MED = 13 Days)",12,29,NA
+"SAEP","Assessment 3 (MED = 20 Days)",12,21,80
+"SAEP","Assessment 4 (MED = 28 Days)",9,14,80
+"UCEP","Assessment 1 (MED = 6.5 Days)",7,7,90
+"UCEP","Assessment 2 (MED = 13 Days)",8,9,85
+"UCEP","Assessment 3 (MED = 20 Days)",4,4,95
+"UCEP","Assessment 4 (MED = 28 Days)",2,3,96
+"UCEP","Assessment 1 (MED = 6.5 Days)",11,16,45
+"UCEP","Assessment 2 (MED = 13 Days)",7,9,55
+"UCEP","Assessment 3 (MED = 20 Days)",4,6,75
+"UCEP","Assessment 4 (MED = 28 Days)",4,6,90
+"UCEP","Assessment 1 (MED = 6.5 Days)",16,31,NA
+"UCEP","Assessment 2 (MED = 13 Days)",16,23,70
+"UCEP","Assessment 3 (MED = 20 Days)",10,16,80
+"UCEP","Assessment 4 (MED = 28 Days)",12,14,90
+"UCEP","Assessment 1 (MED = 6.5 Days)",0,NA,NA
+"UCEP","Assessment 2 (MED = 13 Days)",2,2,84
+"UCEP","Assessment 3 (MED = 20 Days)",0,0,99
+"UCEP","Assessment 4 (MED = 28 Days)",0,0,100
+"UCEP","Assessment 1 (MED = 6.5 Days)",0,NA,NA
+"UCEP","Assessment 2 (MED = 13 Days)",11,19,80
+"UCEP","Assessment 3 (MED = 20 Days)",21,48,65
+"UCEP","Assessment 4 (MED = 28 Days)",6,6,90
+"UCEP","Assessment 1 (MED = 6.5 Days)",17,94,20
+"UCEP","Assessment 2 (MED = 13 Days)",20,79,50
+"UCEP","Assessment 3 (MED = 20 Days)",18,78,60
+"UCEP","Assessment 4 (MED = 28 Days)",13,40,50
+"SAEP","Assessment 1 (MED = 6.5 Days)",6,7,85
+"SAEP","Assessment 2 (MED = 13 Days)",9,11,80
+"SAEP","Assessment 3 (MED = 20 Days)",9,10,83
+"SAEP","Assessment 4 (MED = 28 Days)",3,3,95
+"UCEP","Assessment 1 (MED = 6.5 Days)",10,11,85
+"UCEP","Assessment 2 (MED = 13 Days)",7,7,85
+"UCEP","Assessment 3 (MED = 20 Days)",3,3,90
+"UCEP","Assessment 4 (MED = 28 Days)",2,2,95
+"SAEP","Assessment 1 (MED = 6.5 Days)",1,1,97
+"SAEP","Assessment 2 (MED = 13 Days)",0,0,100
+"SAEP","Assessment 3 (MED = 20 Days)",0,0,100
+"SAEP","Assessment 4 (MED = 28 Days)",0,0,100
+"SAEP","Assessment 1 (MED = 6.5 Days)",8,9,60
+"UCEP","Assessment 1 (MED = 6.5 Days)",18,30,75
+"UCEP","Assessment 2 (MED = 13 Days)",15,28,60
+"UCEP","Assessment 3 (MED = 20 Days)",11,12,80
+"UCEP","Assessment 4 (MED = 28 Days)",7,7,95
+"SAEP","Assessment 1 (MED = 6.5 Days)",13,34,60
+"SAEP","Assessment 2 (MED = 13 Days)",0,0,95
+"SAEP","Assessment 4 (MED = 28 Days)",0,0,99
+"SAEP","Assessment 1 (MED = 6.5 Days)",9,13,70
+"SAEP","Assessment 2 (MED = 13 Days)",9,12,70
+"SAEP","Assessment 3 (MED = 20 Days)",5,5,80
+"SAEP","Assessment 1 (MED = 6.5 Days)",19,51,40
+"SAEP","Assessment 2 (MED = 13 Days)",5,7,10
+"SAEP","Assessment 3 (MED = 20 Days)",3,3,100
+"SAEP","Assessment 4 (MED = 28 Days)",6,10,90
+"SAEP","Assessment 1 (MED = 6.5 Days)",15,36,66
+"SAEP","Assessment 2 (MED = 13 Days)",9,11,75
+"SAEP","Assessment 3 (MED = 20 Days)",3,6,88
+"SAEP","Assessment 4 (MED = 28 Days)",0,0,93
+"SAEP","Assessment 1 (MED = 6.5 Days)",8,10,75
+"SAEP","Assessment 2 (MED = 13 Days)",4,5,90
+"SAEP","Assessment 3 (MED = 20 Days)",1,1,100
+"SAEP","Assessment 4 (MED = 28 Days)",0,0,100
+"UCEP","Assessment 1 (MED = 6.5 Days)",15,31,75
+"UCEP","Assessment 2 (MED = 13 Days)",8,22,75
+"UCEP","Assessment 3 (MED = 20 Days)",8,14,65
+"UCEP","Assessment 4 (MED = 28 Days)",11,30,60
+"SAEP","Assessment 1 (MED = 6.5 Days)",4,4,70
+"SAEP","Assessment 2 (MED = 13 Days)",1,1,90
+"SAEP","Assessment 3 (MED = 20 Days)",0,0,95
+"SAEP","Assessment 4 (MED = 28 Days)",0,0,100
+"UCEP","Assessment 1 (MED = 6.5 Days)",21,73,40
+"UCEP","Assessment 2 (MED = 13 Days)",20,81,35
+"UCEP","Assessment 3 (MED = 20 Days)",20,57,45
+"UCEP","Assessment 4 (MED = 28 Days)",20,39,65
+"SAEP","Assessment 1 (MED = 6.5 Days)",3,4,90
+"SAEP","Assessment 2 (MED = 13 Days)",7,7,75
+"SAEP","Assessment 3 (MED = 20 Days)",0,0,90
+"SAEP","Assessment 4 (MED = 28 Days)",0,0,90
+"UCEP","Assessment 1 (MED = 6.5 Days)",11,38,40
+"UCEP","Assessment 2 (MED = 13 Days)",10,34,45
+"UCEP","Assessment 3 (MED = 20 Days)",10,30,70
+"UCEP","Assessment 4 (MED = 28 Days)",8,14,70
+"SAEP","Assessment 1 (MED = 6.5 Days)",16,20,65
+"SAEP","Assessment 2 (MED = 13 Days)",11,12,75
+"SAEP","Assessment 3 (MED = 20 Days)",7,7,90
+"SAEP","Assessment 1 (MED = 6.5 Days)",22,73,40
+"SAEP","Assessment 2 (MED = 13 Days)",22,27,80
+"SAEP","Assessment 3 (MED = 20 Days)",9,12,90
+"SAEP","Assessment 4 (MED = 28 Days)",4,4,95
+"UCEP","Assessment 1 (MED = 6.5 Days)",3,6,85
+"UCEP","Assessment 2 (MED = 13 Days)",2,3,95
+"UCEP","Assessment 3 (MED = 20 Days)",2,2,95
+"UCEP","Assessment 4 (MED = 28 Days)",2,5,90
+"SAEP","Assessment 1 (MED = 6.5 Days)",20,41,65
+"SAEP","Assessment 2 (MED = 13 Days)",13,22,35
+"SAEP","Assessment 3 (MED = 20 Days)",12,19,80
+"SAEP","Assessment 4 (MED = 28 Days)",6,8,80
+"SAEP","Assessment 1 (MED = 6.5 Days)",10,15,80
+"SAEP","Assessment 2 (MED = 13 Days)",6,8,80
+"SAEP","Assessment 3 (MED = 20 Days)",13,26,75
+"SAEP","Assessment 4 (MED = 28 Days)",7,9,80
+"UCEP","Assessment 1 (MED = 6.5 Days)",14,30,60
+"UCEP","Assessment 2 (MED = 13 Days)",18,50,60
+"UCEP","Assessment 3 (MED = 20 Days)",15,42,45
+"UCEP","Assessment 4 (MED = 28 Days)",15,45,55
+"SAEP","Assessment 1 (MED = 6.5 Days)",20,54,40
+"SAEP","Assessment 2 (MED = 13 Days)",13,25,60
+"SAEP","Assessment 3 (MED = 20 Days)",0,0,90
+"SAEP","Assessment 4 (MED = 28 Days)",3,4,100
+"SAEP","Assessment 1 (MED = 6.5 Days)",8,10,60
+"UCEP","Assessment 1 (MED = 6.5 Days)",15,39,70
+"UCEP","Assessment 2 (MED = 13 Days)",11,23,75
+"UCEP","Assessment 3 (MED = 20 Days)",15,32,75
+"UCEP","Assessment 4 (MED = 28 Days)",10,11,85
+"UCEP","Assessment 1 (MED = 6.5 Days)",20,58,70
+"UCEP","Assessment 3 (MED = 20 Days)",9,20,90
+"SAEP","Assessment 1 (MED = 6.5 Days)",14,24,75
+"SAEP","Assessment 2 (MED = 13 Days)",11,18,80
+"SAEP","Assessment 4 (MED = 28 Days)",9,14,85
+"UCEP","Assessment 1 (MED = 6.5 Days)",2,3,80
+"UCEP","Assessment 2 (MED = 13 Days)",1,1,90
+"UCEP","Assessment 3 (MED = 20 Days)",0,0,95
+"UCEP","Assessment 4 (MED = 28 Days)",0,0,100
+"UCEP","Assessment 1 (MED = 6.5 Days)",22,75,45
+"UCEP","Assessment 2 (MED = 13 Days)",19,59,57
+"UCEP","Assessment 4 (MED = 28 Days)",18,54,65
