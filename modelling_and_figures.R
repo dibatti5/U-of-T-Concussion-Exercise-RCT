@@ -494,7 +494,7 @@ m_symp <- ulam(
     a1[group] ~ dnorm(2,1),
     a2[time] ~ dnorm(3,1),
     sig ~ dexp(1)
-  ), data = dat_symp, iter = 2000,  chains = 4, log_lik = TRUE  )
+  ), data = dat_symp, iter = 20000,  chains = 4, log_lik = TRUE  )
 
 precis(m_symp,2)
 
