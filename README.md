@@ -1,5 +1,5 @@
 # U-of-T-Concussion-Exercise-RCT
-This repository contains anonymized experimental data and all scripts to reproduce results and plots in:
+This repository contains anonymized experimental data and all scripts to reproduce results, tables, and plots in:
 
 Hutchison MG, Di Battista AP, Lawrence DW, Pyndiura K, Corallo D, Richards D, '**Randomized controlled trial of early aerobic exercise following sport related concussion: progressive percentage of age-predicted maximal heart rate versus usual care**', PLOS One 2022.
 
