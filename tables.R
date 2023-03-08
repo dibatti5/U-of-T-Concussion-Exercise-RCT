@@ -15,9 +15,6 @@ t2_df <- read.csv("t2_df.csv",stringsAsFactors = FALSE)
 colnames(t2_df) <- c('randomization_group','redcap_repeat_instance',
                      'Total Symptoms','Symptom Severity','% of Normal')
 
-
-
-
 ####TABLE 2####
 #prep according to assessment
 enrolment_df <- t2_df[t2_df$redcap_repeat_instance=="Enrolment",]
