@@ -574,7 +574,6 @@ precis(pm_pooled,2,prob=0.9)
 
 compare(m_symp,m_symp_p) #pooled model offers no benefit
 
-
 #TOTAL SYMPTOMS
 #unpooled model of total symptoms over time
 symptom_t_model <- symp_df[c(1,4,5,8)]
@@ -677,7 +676,7 @@ feel_model <- na.omit(feel_model)
 by(feel_model$`% of Normal`[feel_model$randomization_group==2],
    feel_model$redcap_repeat_instance[feel_model$randomization_group==2],median)
 
-#z transform
+#model with z transform
 dat_feel <- list(subj = feel_model$ids,
                  time = as.integer(feel_model$redcap_repeat_instance),
                  group = as.integer(feel_model$randomization_group),
@@ -718,6 +717,7 @@ mean(pm_feel$diff_w2<0)
 mean(pm_feel$diff_w3<0)
 mean(pm_feel$diff_w4<0)
 
+####Prior predictive chescks found in the supplement.
 #priors
 prior_feel <- data.frame(extract.prior(m_feel))
 precis(prior_feel,2,prob=0.9)
@@ -738,8 +738,6 @@ prior_feel$diff_w3 <- prior_feel$uc_w3-prior_feel$ex_w3
 prior_feel$diff_w4 <- prior_feel$uc_w4-prior_feel$ex_w4
 precis(prior_feel,2,prob=0.9)
 
-#Table 2 prior histograms
-#prep from model prior
 #SYMPTOM SEVERITY
 usual1 <- cbind.data.frame(prior_msymp$uc_w1,rep('UCEP A1',length(prior_msymp$uc_w1)))
 usual2 <- cbind.data.frame(prior_msymp$uc_w2,rep('UCEP A2',length(prior_msymp$uc_w2)))

@@ -1,4 +1,8 @@
-#script to create Tables 1 and 2
+#script to create Table 2
+
+#Note: Table 1 script is not available as it contains demographic information...
+#that we are not permitted to share publicly. If needed, please contact the...
+#corresponding author.
 
 #Libraries required
 library(gtsummary)
@@ -6,51 +10,12 @@ library(gt)
 library(tidyverse)
 
 #load files
-t1_df <- read.csv('t1_df.csv',stringsAsFactors = FALSE)
-#change colnames
-colnames(t1_df) <- c('randomization_group','Age','Female Sex',
-                     'Education Level','Sport','Prior Concussion',
-                     'ADHD', 'Learning Disability','Sleep Disorder',
-                     'Anxiety','Depression','LOC','Total Symptoms',
-                     'Symptom Severity','Symptom Severity Range','% of Normal',
-                     'Godin Score')
-
-
 t2_df <- read.csv("t2_df.csv",stringsAsFactors = FALSE)
 #change colnames
 colnames(t2_df) <- c('randomization_group','redcap_repeat_instance',
                      'Total Symptoms','Symptom Severity','% of Normal')
 
 
-
-####TABLE 1####
-#set theme
-theme_gtsummary_journal(journal = c("nejm"),set_theme = TRUE)
-
-#create table w gtsummary and gt
-t1 <- 
-  tbl_summary(t1_df,by = randomization_group)%>%
-  bold_labels()%>%
-  modify_caption("**Table 1. Participant Characteristics**") %>%
-  as_gt() %>%
-  tab_source_note(md("Data presented as the Median (IQR), or n (%)\n
-  UCEP, usual care exercise prescription; SAEP, structured aerobic exercise prescription,
-  IQR, interquartile range; EL, elementary; 
-                     MS, middle-school; HS, high school; LOC, 
-                     loss of consciousness; ADHD, 
-                     attention deficit hyperactivity disorder")) %>%
-  tab_row_group(
-    label = "Demographics", id = "Demographics",
-    rows = 1:29)%>%
-  tab_row_group(
-    label = "Injury Characteristics", id = "Injury Characteristics",
-    rows = 30:42) %>%  
-  row_group_order(groups = c("Demographics","Injury Characteristics"))%>%
-  tab_style(
-    style = cell_text(weight = "bold"),
-    locations = cells_row_groups(groups= c("Demographics",
-                                           "Injury Characteristics"))) %>%
-  gt::gtsave(filename = "t1.html") 
 
 
 ####TABLE 2####
