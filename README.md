@@ -9,13 +9,17 @@ As per the data availability statement found in the manuscript, we are unable to
 
 # .R files
 **tables.R**: script to make Table 2. 
+
 **modelling_and_figures.R**: script to run all statistical models reported in the manuscript, and to create all figures and supplemental figures. 
 
 
 # .CSV files
 **m1_df.csv**: simulated data file used to model days to asymptomatic status.
+
 **m2_df.csv**: simulated data file used to model days to return-to-play.
+
 **t2_df.csv**: simulated data file used to create manuscript Table 2.
+
 **symp_df.csv**: simulated data file used to model symptoms throughout the trial.
 
 
