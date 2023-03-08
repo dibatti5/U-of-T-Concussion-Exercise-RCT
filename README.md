@@ -8,7 +8,7 @@ As per the data availability statement found in the manuscript, we are unable to
 
 
 # .R files
-**tables.R**: script to make Table 2. 
+**tables.R**: code to make Table 2 found in manuscript. 
 
 **modelling_and_figures.R**: script to run all statistical models reported in the manuscript, and to create all figures and supplemental figures. 
 
