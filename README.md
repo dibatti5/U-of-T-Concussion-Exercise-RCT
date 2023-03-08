@@ -1,7 +1,10 @@
 # U-of-T-Concussion-Exercise-RCT
-This repository contains all code used for every result, table and figure in:
+This repository contains all the code used for every result, table and figure found in:
 
 Hutchison MG, Di Battista AP, Lawrence DW, Pyndiura K, Corallo D, Richards D, '**Randomized controlled trial of early aerobic exercise following sport related concussion: progressive percentage of age-predicted maximal heart rate versus usual care**', PLOS One 2022.
+
+
+**As per the data availability statement found in the manuscript, due to the constraints placed on us by the University of Toronto, we were unable to provide any datasets that had attached demographic information.
 
 
 # .R files
@@ -14,4 +17,6 @@ Hutchison MG, Di Battista AP, Lawrence DW, Pyndiura K, Corallo D, Richards D, '*
 **SAEP** = structured aerobic exercise prescription. 
 
 **UCEP** = usual care exercie exercise prescription. 
+
+
 
