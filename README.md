@@ -4,7 +4,7 @@ This repository contains all the code used for every result, table and figure fo
 Hutchison MG, Di Battista AP, Lawrence DW, Pyndiura K, Corallo D, Richards D, '**Randomized controlled trial of early aerobic exercise following sport related concussion: progressive percentage of age-predicted maximal heart rate versus usual care**', PLOS One 2022.
 
 
-**As per the data availability statement found in the manuscript, due to the constraints placed on us by the University of Toronto, we were unable to provide any datasets that had attached demographic information.
+**As per the data availability statement found in the manuscript, due to the constraints placed on us by the University of Toronto we were unable to provide datasets that contained demographic information.**
 
 
 # .R files
